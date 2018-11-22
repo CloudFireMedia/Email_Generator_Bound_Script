@@ -1,0 +1,12 @@
+{
+  "timeZone": "America/Chicago",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "EmailGenerator",
+      "libraryId": "1ykFe56uEIn8kUeXe_LNv5eJPFhKA-_P5rzT8TSr_Z9nsSsMVjsFCnEHO",
+      "version": "1",
+      "developmentMode": true
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
